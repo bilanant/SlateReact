@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tag {
+  padding: 3px 6px;
+  background-color: lightgray;
+  margin: 2px 2px;
+  font-size: 18px;
+}
+
+.tag--focused {
+  outline: 1px solid black;
+}
+
+.editor-collapsible {
+  width: 300px;
+  height: 120px;
+  overflow-y: auto;
+}
